@@ -10,7 +10,7 @@
 
 ### 📄 Resume
 <p align="center">
-  <a href="https://github.com/Nivi-dev/Nivi-dev/raw/main/Nivas.T-Java Developer.pdf" target="_blank">
+  <a href="https://github.com/Nivi-dev/Nivi-dev/raw/main/Nivas.T-Java%20Developer.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge" height="30"/>
   </a>
 </p>
