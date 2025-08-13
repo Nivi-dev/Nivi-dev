@@ -8,6 +8,13 @@
   Passionate and detail-oriented software developer with expertise in building scalable web applications using Java, Spring Boot, Hibernate, and MySQL. Skilled in designing RESTful APIs, integrating front-end technologies like HTML, CSS, Bootstrap, and JavaScript, and deploying projects to cloud platforms like AWS. Always eager to learn new tools and improve code quality.
 </p>
 
+### 📄 Resume
+<p align="center">
+  <a href="https://github.com/Nivi-dev/Nivi-dev/raw/main/Nivas_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge" height="30"/>
+  </a>
+</p>
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nivas1306/" target="_blank">
@@ -50,6 +57,11 @@
 <p align="center">
   <a href="https://github.com/Nivi-dev/TravelManagementSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivi-dev&repo=TravelManagementSystem&theme=dracula" />
+  </a>
+
+  <p align="center">
+  <a href="https://github.com/Nivi-dev/BookApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivi-dev&repo=BookApp&theme=dracula" />
   </a>
 
 ---
