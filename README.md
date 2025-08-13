@@ -29,7 +29,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nivi-dev&theme=dracula" height="150" />
@@ -42,6 +42,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nivi-dev&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8" />
 </p>
+-->
 
 ---
 
