@@ -24,7 +24,7 @@
   <a href="mailto:nivasthangavel1306@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="30"/>
   </a>
-  <a href="https://nivast13-portfolio.netlify.app/" target="_blank">
+  <a href="https://nivast.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&style=for-the-badge" height="30"/>
   </a>
 </p>
