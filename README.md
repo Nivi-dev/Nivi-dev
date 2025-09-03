@@ -61,8 +61,8 @@
   </a>
 
   <p align="center">
-  <a href="https://github.com/Nivi-dev/BookApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivi-dev&repo=BookApp&theme=dracula" />
+  <a href="https://github.com/Nivi-dev/Smart-Event-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivi-dev&repo=Smart-Event-Management-System&theme=dracula" />
   </a>
 
 ---
